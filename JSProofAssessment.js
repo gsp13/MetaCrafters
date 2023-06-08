@@ -61,19 +61,19 @@ mintNFT('Leader Zealot',
         'https://img.game8.co/3664864/c2fbe94baf70c774563dd46bf81deaaf.png/show',
         'Funsized Clerical Cult Member Charm for your Case ',
         'Common',
-        '+10% health recovery for green herbs',
-)
+        '+10% health recovery for green herbs'
+);
 mintNFT('Chicken',
         'https://img.game8.co/3665471/ebde2a5e8bab5add7039d5cfb275deab.png/show',
         'Bokbokbokbok',
         'Rare',
-        'health recovery rate by 100 percent for all egg types',
-)
+        'health recovery rate by 100 percent for all egg types'
+);
 mintNFT('Merchant',
         'https://img.game8.co/3665310/e20b8cb32aaf4e4283400cf39385ad4b.png/show',
         'A miniature replica of the friendly weapon peddling stranger',
         'Epic',
-        '5% off weapon upgrades',
+        '5% off weapon upgrades'
 )
 listNFTs();
 getTotalSupply();
